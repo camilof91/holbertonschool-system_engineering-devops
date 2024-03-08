@@ -71,7 +71,7 @@ This project focuses on designing various web infrastructure setups to understan
 
 ## Authors
 
-<p style="text-align: center; font-weight: bold; font-size: 1.2em;">Camilo Fetecua</p>
+<p style="text-align: center;"><strong><big>Camilo Fetecua</big></strong></p>
 
 <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/camilo-fetecua">
