@@ -37,8 +37,7 @@ This project focuses on designing various web infrastructure setups to understan
 
 ## Screenshots
 
-![App Screenshot](https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/1.png
-)
+<img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/1.png" alt="App Screenshot" width="300">
 
 ### 2. Secured and monitored web infrastructure
 
