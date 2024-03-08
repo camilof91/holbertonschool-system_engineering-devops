@@ -24,6 +24,10 @@ This project focuses on designing various web infrastructure setups to understan
     1 database (MySQL)
     Domain name foobar.com configured with a www record pointing to server IP 8.8.8.8
 
+## Graphic
+
+<img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/1.png" alt="App Screenshot" width="500">
+
 #### 1. Distributed web infrastructure
 
 #### Design a three server web infrastructure for www.foobar.com with:
@@ -35,9 +39,9 @@ This project focuses on designing various web infrastructure setups to understan
     1 set of application files (your code base)
     1 database (MySQL)
 
-## Screenshots
+## Graphic
 
-<img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/1.png" alt="App Screenshot" width="300">
+<img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/2.png" alt="App Screenshot" width="500">
 
 ### 2. Secured and monitored web infrastructure
 
@@ -49,6 +53,10 @@ This project focuses on designing various web infrastructure setups to understan
 - Terminate SSL at the load balancer level
 - Implement MySQL Primary-Replica cluster
 
+## Graphic
+
+<img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/3.png" alt="App Screenshot" width="500">
+
 ### 3. Scale up
 
 #### Discuss the differences between application server and web server and design an infrastructure with:
@@ -57,7 +65,9 @@ This project focuses on designing various web infrastructure setups to understan
 - 1 load-balancer (HAproxy) configured as a cluster with another one
 - Split components (web server, application server, database) on their own servers
 
+## Graphic
 
+<img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/4.png" alt="App Screenshot" width="500">
 
 ## Authors
 
