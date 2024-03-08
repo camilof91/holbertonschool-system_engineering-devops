@@ -28,7 +28,7 @@ This project focuses on designing various web infrastructure setups to understan
 
 <img src="https://github.com/camilof91/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/img/1.png" alt="App Screenshot" width="500">
 
-#### 1. Distributed web infrastructure
+### 1. Distributed web infrastructure
 
 #### Design a three server web infrastructure for www.foobar.com with:
 
