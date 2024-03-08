@@ -71,24 +71,13 @@ This project focuses on designing various web infrastructure setups to understan
 
 ## Authors
 
-<p style="text-align: center;">Camilo Fetecua</p>
+<p style="text-align: center; font-weight: bold; font-size: 1.2em;">Camilo Fetecua</p>
 
 <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/camilo-fetecua">
-        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px;">
+        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px; vertical-align: middle;" width="60">
     </a>
     <a href="https://github.com/camilof91">
-        <img src="https://github.com/camilof91/imagenes/blob/master/icons-github-48x48.png?raw=true" style="display: inline-block;">
-    </a>
-</div>
-
-<p style="text-align: center;">Vanessa </p>
-
-<div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/camilo-fetecua">
-        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px;">
-    </a>
-    <a href="https://github.com/camilof91">
-        <img src="https://github.com/camilof91/imagenes/blob/master/icons-github-48x48.png?raw=true" style="display: inline-block;">
+        <img src="https://github.com/camilof91/imagenes/blob/master/big-%20GitHub-logo.png?raw=true" style="display: inline-block; vertical-align: middle;" width="100">
     </a>
 </div>
