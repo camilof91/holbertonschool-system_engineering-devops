@@ -62,7 +62,7 @@ This project focuses on designing various web infrastructure setups to understan
 
 ## Authors
 
-- [![linkedIn](https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true)](www.linkedin.com/in/camilo-fetecua-406a70298)
+- **Camilo Fetecua**
 
-- [![GITHUB](https://github.com/camilof91/imagenes/blob/master/icons-github.png?raw=true)](https://github.com/camilof91)
+[![linkedIn](https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true)](www.linkedin.com/in/camilo-fetecua-406a70298)   [![GITHUB](https://github.com/camilof91/imagenes/blob/master/icons-github-48x48.png?raw=true)](https://github.com/camilof91)
 
