@@ -81,3 +81,47 @@ This project focuses on designing various web infrastructure setups to understan
         <img src="https://github.com/camilof91/imagenes/blob/master/big-%20GitHub-logo.png?raw=true" style="display: inline-block; vertical-align: middle;" width="100">
     </a>
 </div>
+
+<p style="text-align: center;"><strong><big>Maria Alejandra Gonzalez</big></strong></p>
+
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/maria-alejandra-gonzalez-londo%C3%B1o-a5084a208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px; vertical-align: middle;" width="60">
+    </a>
+    <a href="https://github.com/marialegl">
+        <img src="https://github.com/camilof91/imagenes/blob/master/big-%20GitHub-logo.png?raw=true" style="display: inline-block; vertical-align: middle;" width="100">
+    </a>
+</div>
+
+<p style="text-align: center;"><strong><big>Juan Pablo Restrepo</big></strong></p>
+
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/camilo-fetecua">
+        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px; vertical-align: middle;" width="60">
+    </a>
+    <a href="https://github.com/camilof91">
+        <img src="https://github.com/camilof91/imagenes/blob/master/big-%20GitHub-logo.png?raw=true" style="display: inline-block; vertical-align: middle;" width="100">
+    </a>
+</div>
+
+<p style="text-align: center;"><strong><big>Vanessa Requejo</big></strong></p>
+
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/camilo-fetecua">
+        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px; vertical-align: middle;" width="60">
+    </a>
+    <a href="https://github.com/camilof91">
+        <img src="https://github.com/camilof91/imagenes/blob/master/big-%20GitHub-logo.png?raw=true" style="display: inline-block; vertical-align: middle;" width="100">
+    </a>
+</div>
+
+<p style="text-align: center;"><strong><big>David Vasquez</big></strong></p>
+
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/camilo-fetecua">
+        <img src="https://github.com/camilof91/imagenes/blob/master/icons-linkedin.png?raw=true" style="display: inline-block; margin-right: 20px; vertical-align: middle;" width="60">
+    </a>
+    <a href="https://github.com/camilof91">
+        <img src="https://github.com/camilof91/imagenes/blob/master/big-%20GitHub-logo.png?raw=true" style="display: inline-block; vertical-align: middle;" width="100">
+    </a>
+</div>
